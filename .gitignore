@@ -1,0 +1,15 @@
+__pycache__/
+*.pth
+*.train
+models/ops
+exps/
+exps_dance/
+exps_visem
+data/Dataset/mot
+build/
+data/
+*.egg
+*.egg-info
+*.mp4
+attn_vis/
+core
